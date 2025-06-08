@@ -41,3 +41,6 @@ ejercicios = [
 
 📈 Promedio general de entregas: 86.37%
 ```
+
+
+#####  Si quieres después... ¡a graficar! 
