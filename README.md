@@ -23,7 +23,7 @@ ejercicios = [
     ("ejercicio_3", 11, 9),
     ("ejercicio Scraping", 11, 10),
     ("ejercicio API", 11, 10),
-    ("Probabilidad", 11, 7)
+    ("Probabilidad", 11, )
 ]
 ```
 
